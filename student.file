@@ -1,5 +1,7 @@
 Class Student {
-int id
-roll number;
+int id;
+roll no;
+string gender;
+bollen active;
 
 }
