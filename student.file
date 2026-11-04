@@ -1,1 +1,5 @@
+Class Student {
+int id
+roll number;
 
+}
