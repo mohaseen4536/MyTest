@@ -1,5 +1,7 @@
 Class Student {
 int id
 roll number;
+ stirng name;
+double fee;
 
 }
