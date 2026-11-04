@@ -1,7 +1,14 @@
 Class Student {
+<<<<<<< HEAD
 int id;
 roll no;
 string gender;
 bollen active;
+=======
+int id
+roll number;
+ stirng name;
+double fee;
+>>>>>>> 12ec68222599fb4d694ae96223100a96536ed68e
 
 }
