@@ -1,3 +1,7 @@
 Hello World
+<<<<<<< HEAD
 Welcome 
 to the world
+=======
+hii shaik
+>>>>>>> ce6b3f2d6e1a689f342814b41ab784ed5869b0c5
